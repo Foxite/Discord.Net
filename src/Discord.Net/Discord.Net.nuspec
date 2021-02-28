@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Discord.Net</id>
-    <version>2.3.1-dev$suffix$</version>
+    <id>Discord.NetFoxite</id>
+    <version>2.3.1-$suffix$</version>
     <title>Discord.Net</title>
     <authors>Discord.Net Contributors</authors>
     <owners>foxbot</owners>
-    <description>An asynchronous API wrapper for Discord. This metapackage includes all of the optional Discord.Net components.</description>
+    <description>[Package name changed to avoid conflicts.] An asynchronous API wrapper for Discord. This metapackage includes all of the optional Discord.Net components.</description>
     <tags>discord;discordapp</tags>
     <projectUrl>https://github.com/RogueException/Discord.Net</projectUrl>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
@@ -19,7 +19,7 @@
             <dependency id="Discord.Net.WebSocket" version="2.3.1-dev$suffix$" />
             <dependency id="Discord.Net.Commands" version="2.3.1-dev$suffix$" />
             <dependency id="Discord.Net.Webhook" version="2.3.1-dev$suffix$" />
-        </group>       
+        </group>
         <group targetFramework="netstandard2.0">
             <dependency id="Discord.Net.Core" version="2.3.1-dev$suffix$" />
             <dependency id="Discord.Net.Rest" version="2.3.1-dev$suffix$" />

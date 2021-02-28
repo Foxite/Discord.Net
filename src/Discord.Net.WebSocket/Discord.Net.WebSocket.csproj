@@ -2,7 +2,7 @@
   <Import Project="../../Discord.Net.targets" />
   <Import Project="../../StyleAnalyzer.targets" />
   <PropertyGroup>
-    <AssemblyName>Discord.Net.WebSocket</AssemblyName>
+    <AssemblyName>Discord.NetFoxite.WebSocket</AssemblyName>
     <RootNamespace>Discord.WebSocket</RootNamespace>
     <Description>A core Discord.Net library containing the WebSocket client and models.</Description>
     <TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">net461;netstandard2.0;netstandard2.1</TargetFrameworks>

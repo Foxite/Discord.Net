@@ -2,7 +2,7 @@
   <Import Project="../../Discord.Net.targets" />
   <Import Project="../../StyleAnalyzer.targets" />
   <PropertyGroup>
-    <AssemblyName>Discord.Net.Commands</AssemblyName>
+    <AssemblyName>Discord.NetFoxite.Commands</AssemblyName>
     <RootNamespace>Discord.Commands</RootNamespace>
     <Description>A Discord.Net extension adding support for bot commands.</Description>
     <TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">net461;netstandard2.0;netstandard2.1</TargetFrameworks>

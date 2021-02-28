@@ -1,11 +1,11 @@
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Discord.Net.Rpc")]
-[assembly: InternalsVisibleTo("Discord.Net.WebSocket")]
-[assembly: InternalsVisibleTo("Discord.Net.Webhook")]
-[assembly: InternalsVisibleTo("Discord.Net.Commands")]
-[assembly: InternalsVisibleTo("Discord.Net.Tests")]
-[assembly: InternalsVisibleTo("Discord.Net.Tests.Unit")]
+[assembly: InternalsVisibleTo("Discord.NetFoxite.Rpc")]
+[assembly: InternalsVisibleTo("Discord.NetFoxite.WebSocket")]
+[assembly: InternalsVisibleTo("Discord.NetFoxite.Webhook")]
+[assembly: InternalsVisibleTo("Discord.NetFoxite.Commands")]
+[assembly: InternalsVisibleTo("Discord.NetFoxite.Tests")]
+[assembly: InternalsVisibleTo("Discord.NetFoxite.Tests.Unit")]
 
 [assembly: TypeForwardedTo(typeof(Discord.Embed))]
 [assembly: TypeForwardedTo(typeof(Discord.EmbedBuilder))]

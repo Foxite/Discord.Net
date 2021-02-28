@@ -1,11 +1,11 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <VersionPrefix>2.3.1</VersionPrefix>
-        <VersionSuffix>dev</VersionSuffix>
+        <VersionPrefix>2.3.2</VersionPrefix>
+        <VersionSuffix>foxite</VersionSuffix>
         <LangVersion>latest</LangVersion>
         <Authors>Discord.Net Contributors</Authors>
         <PackageTags>discord;discordapp</PackageTags>
-        <PackageProjectUrl>https://github.com/Discord-Net/Discord.Net</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/Foxite/Discord.Net/tree/Interactions2</PackageProjectUrl>
         <PackageLicenseUrl>http://opensource.org/licenses/MIT</PackageLicenseUrl>
         <PackageIconUrl>https://github.com/Discord-Net/Discord.Net/raw/dev/docs/marketing/logo/PackageLogo.png</PackageIconUrl>
         <RepositoryType>git</RepositoryType>
